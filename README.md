@@ -4,7 +4,7 @@ This project is a simple React application that demonstrates the use of global c
 
 ## Project Link
 
-The live version of the project can be found at [Project Link](https://example.com).
+The live version of the project can be found at [Project Link](https://sidebar-modal.onrender.com).
 
 ## Technologies Used
 
